@@ -1,0 +1,190 @@
+
+
+body{
+    font-family: 'Arima Madurai';font-size: 22px;
+    background-color: lightgray;
+    
+}
+
+.firstpage{
+    
+
+}
+
+.firstimage{
+    float: left;
+    width:25%;
+    height: 15%;
+    margin-left:2%;
+    margin-top: 3%;
+    margin-right:1%;
+
+}
+
+
+
+#h1{
+    float: right;
+    width:70%;
+    font-size: 70px;
+    margin-top: 2%;
+    
+}
+@media screen and (max-width: 1050px) {
+    #h1 {
+      text-align: center;
+    }
+  }
+
+#h3{
+    /* clear: both; */
+    float: right;
+    width:70%;
+    margin: 10px;
+    font-size: 25px;
+
+}
+@media screen and (max-width: 1050px) {
+    #h3 {
+      text-align: center;
+      width: 65%;
+    }
+  }
+
+
+#h5{
+
+    float: right;
+    width: 70%;
+    margin: 10px;
+    font-size: 15px;
+
+}
+
+@media screen and (max-width: 1050px) {
+    #h5 {
+      text-align: center;
+      width: 65%;
+    }
+  }
+section{
+    clear: both;
+}
+
+#nav1{
+    float: right;
+    width: 70%;
+    margin-right: 1%
+}
+
+@media screen and (max-width: 1050px) {
+    #nav1 {
+      float: right;
+      text-align: center;
+      margin: 2%;
+      width: 90%;
+    }
+  }
+
+
+#break1{
+    width: 
+}
+
+.introduction{
+    font-size:24px;
+    float: right;
+    width:70%;
+    margin-right: 1%;
+    
+}
+
+@media screen and (max-width: 1050px) {
+    .introduction{
+      float: right;
+      text-align: center;
+      margin: 1%;
+      width: 90%;
+    }
+  }
+
+    
+   
+
+
+
+
+
+#Ingredients{
+    float: left;
+    width:25%;
+    border-style: solid;
+    border-size: 1px;
+    background-color:#EDC9BB;
+    margin-left: 2%;
+}
+
+@media screen and (max-width: 800px) {
+    #Ingredients {
+      float: left;
+      margin: 2%;
+      width: 90%;
+    }
+  }
+
+
+
+#directions{
+  float: right;
+  width: 70%;
+  border-style: solid;
+  border-size: 1px;
+  background-color:#D6605E;
+  font-size: 22px;   
+  column-count: 2;
+  margin-right:2%;
+
+
+}
+
+@media screen and (max-width: 800px) {
+    #directions {
+      float: left;
+      margin: 2%;
+      width: 90%;
+    }
+  }
+
+
+.finalimages{
+    clear:both;
+    display: flex;
+    
+}
+
+#image2{
+    width:50%;
+    float:left;
+    margin-left:10px;
+    text-align: center
+}
+
+#image3{
+    width:40%;
+    margin size:5px;
+    text-align: center
+}
+
+#image4{
+    width:50%;
+    float:right;
+    text-align: center
+}
+
+#footer{
+    font-size: 15px;
+    text-align: center;
+}
+
+
+
